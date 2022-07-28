@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "myprojects",
+			"path": "../../../../html/myprojects"
+		},
+		{
+			"name": "projectsJS",
+			"path": "../../.."
+		},
+		{
+			"name": "02_project @ a89d998",
+			"uri": "gitlens://7b22726566223a2261383964393938666637623130386134396431616532396461613637393037653864326338363162222c227265706f50617468223a222f55736572732f646d7974726f6b6f726f626b696e2f446f63756d656e74732f70726f6a656374734a532f30325f70726f6a656374227d/Users/dmytrokorobkin/Documents/projectsJS/02_project?{\"ref\":\"a89d998\"}"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myprojects"
+	}
+}
