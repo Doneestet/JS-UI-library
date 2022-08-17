@@ -12,6 +12,6 @@ index - return element index
 
 find 
 
-closest
+closest - return object with closest elements
 
-siblings
+siblings - 
